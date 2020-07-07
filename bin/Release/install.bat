@@ -1,0 +1,1 @@
+sc.exe create copyFile binpath= "D:\Laptrinh\C#\webAPI\writeLog\bin\Release\writeLog.exe"

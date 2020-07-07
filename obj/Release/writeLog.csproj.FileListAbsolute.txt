@@ -1,0 +1,9 @@
+D:\Laptrinh\C#\webAPI\writeLog\bin\Release\writeLog.exe.config
+D:\Laptrinh\C#\webAPI\writeLog\bin\Release\writeLog.exe
+D:\Laptrinh\C#\webAPI\writeLog\bin\Release\writeLog.pdb
+D:\Laptrinh\C#\webAPI\writeLog\bin\Release\Newtonsoft.Json.dll
+D:\Laptrinh\C#\webAPI\writeLog\bin\Release\Newtonsoft.Json.xml
+D:\Laptrinh\C#\webAPI\writeLog\obj\Release\writeLog.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\webAPI\writeLog\obj\Release\writeLog.csproj.CopyComplete
+D:\Laptrinh\C#\webAPI\writeLog\obj\Release\writeLog.exe
+D:\Laptrinh\C#\webAPI\writeLog\obj\Release\writeLog.pdb
